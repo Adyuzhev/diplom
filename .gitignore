@@ -1,0 +1,5 @@
+Classification
+ПЗ
+runs
+models/efficientnet_b5/efficientnet_b5.pth
+models/yolo9e/best.pt

@@ -1,0 +1,6 @@
+test: ''
+train: [C:/Users/user/Desktop/Project/diplom/fraction/train/original/images, C:/Users/user/Desktop/Project/diplom/fraction/train/aug/images]
+val: [C:/Users/user/Desktop/Project/diplom/fraction/val/original/images]
+
+nc: 5
+names: ['Sand 0-20 mm', 'Sand 0-5 mm', 'Rubble 5-20 mm', 'Rubble 20-40 mm', 'Rubble 40-70 mm']

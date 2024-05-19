@@ -1,0 +1,8 @@
+fastapi
+opencv-python
+numpy
+pybase64
+ultralytics
+uvicorn
+python-multipart
+dill
